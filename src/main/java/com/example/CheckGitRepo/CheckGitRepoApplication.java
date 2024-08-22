@@ -9,7 +9,7 @@ public class CheckGitRepoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CheckGitRepoApplication.class, args);
 		
-		
+		System.out.println("Hello");
 		//Just Comment I wanted To Add
 	}
 
